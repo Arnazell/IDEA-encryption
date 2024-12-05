@@ -1,0 +1,3 @@
+# IMPLEMENTACJA ALGORYTMU IDEA
+
+print("Hello world!")
